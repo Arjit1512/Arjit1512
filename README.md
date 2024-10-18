@@ -17,21 +17,18 @@ You can click the Preview link to take a look at your changes.
 
 <h2 >Connect With Me</h2> 
 <div >
-<a href="https://github.com/arjit" target="_blank">
+<a href="https://github.com/Arjit1512" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="mailto:msarjitreddy@gmail.com" target="_blank">
+<a href="mailto:avadhanamarjit15@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&
 logoColor=white alt="gmail" style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/arjit-reddy/" target="_blank">
+<a href="https://www.linkedin.com/in/arjitavadhanam/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/arjit_reddy/" target="_blank">
+<a href="https://www.instagram.com/_arjit3/" target="_blank">
 <img src=https://img.shields.io/badge/Instagram-E4455F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://anilist.co/user/arjit/" target="_blank">
-<img src=https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=AniList&logoColor=white alt=anilist style="margin-bottom: 5px;" />
 </a>
 </div>  
 
