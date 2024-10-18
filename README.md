@@ -14,6 +14,9 @@ You can click the Preview link to take a look at your changes.
 ## Currently Working on
 - [Simulation of Drone in Different Terrains](https://docs.google.com/presentation/d/1H0Q19Z315Zj8TnCEueWrwmijroh7y5qz/edit#slide=id.p16)
 
+## Academic Projects
+- [Vehicle Number Plate Recognition System](https://github.com/Arjit1512/vehicle-recognition)
+
 ## Personal Projects
 - [True Hood E-Commerce Platform](https://github.com/Arjit1512/arjit-dream-project)
 - [Sociopedia MERN Stack Application](https://github.com/Arjit1512/arjit-sociopedia)
