@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 - [Simulation of Drone in Different Terrains](https://docs.google.com/presentation/d/1H0Q19Z315Zj8TnCEueWrwmijroh7y5qz/edit#slide=id.p16)
 
 ## Academic Projects
-- [Smart Water Irrigation System System](https://github.com/Arjit1512/embedded-systems)
+- [Smart Water Irrigation System](https://github.com/Arjit1512/embedded-systems)
 - [Vehicle Number Plate Recognition System](https://github.com/Arjit1512/vehicle-recognition)
 - [Simulation of circuits in T-SPICE](https://drive.google.com/drive/u/0/folders/14i7vF36J6uEc-4r2z4QJpWjV_drb0gGj)
 
