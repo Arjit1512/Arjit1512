@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&
 logoColor=white alt="gmail" style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/arjitavadhanam/" target="_blank">
+<a href="https://www.linkedin.com/in/arjit-avadhanam-90713a295" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.instagram.com/_arjit3/" target="_blank">
