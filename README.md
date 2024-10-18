@@ -3,13 +3,13 @@ Arjit1512/Arjit1512 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<h3>- 👋 Hi, I’m Arjit Avadhanam<br/>
-- 👀 I do coding @leetcode ✈ https://leetcode.com/u/Arjit15<br/>
-- 📫 You can reach me on https://www.linkedin.com/in/arjit-avadhanam-90713a295<br/>
-- 😄 Pronouns: he/him<br/></h3>
-<h4 >A Full Stack Web Developer</h4>
+- 👋 Hi, I’m Arjit Avadhanam<br/>
+- 👀 I do coding @leetcode ✈ https://leetcode.com/u/Arjit15
+- 📫 You can reach me on https://www.linkedin.com/in/arjit-avadhanam-90713a295
+- 😄 Pronouns: he/him
+<h6>A Full Stack Web Developer</h6>
 
-📖 I’m a **Computer Science Undergrad** studying at **Indian Institute of Information Technology, SriCity**. 
+📖 I’m a **Electronics and Communication Undergrad** studying at **Indian Institute of Information Technology, SriCity**. 
 
 ## Currently Working on
 - [Under Water Aquatic Image Classification](https://github.com/arjit/UAIC)
