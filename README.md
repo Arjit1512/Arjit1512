@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Academic Projects
 - [Vehicle Number Plate Recognition System](https://github.com/Arjit1512/vehicle-recognition)
-- [Simulation of circuits in T-SPICE](https://github.com/Arjit1512/vlsi-project)
+- [Simulation of circuits in T-SPICE](https://drive.google.com/drive/u/0/folders/14i7vF36J6uEc-4r2z4QJpWjV_drb0gGj)
 
 ## Personal Projects
 - [True Hood E-Commerce Platform](https://github.com/Arjit1512/arjit-dream-project)
