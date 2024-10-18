@@ -45,3 +45,20 @@ logoColor=white alt="gmail" style="margin-bottom: 5px;" />
 | MongoDB | Express.js | ReactJS | Node.js |
 |:----------:|:----------:|:----------:|:----------:|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="45" height="45"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS"  alt="ReactJS" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="45" height="45"/> |
+
+
+<h2>My Profile Stats</h2>
+
+<div>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Arjit1512&show_icons=true&theme=tokyonight&locale=en&count_private=true&include_all_commits=true" />
+</div>
+<p></p>
+<div>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Arjit1512&show_icons=true&theme=tokyonight&locale=en&layout=compact&count_private=true" />
+</div>
+<p></p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Arjit1512&title=Commits,Repositories,MultipleLang,PullRequest,Reviews&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![](https://komarev.com/ghpvc/?username=Arjit1512&style=for-the-badge&color=orange)
+
