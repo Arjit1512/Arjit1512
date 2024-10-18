@@ -1,15 +1,12 @@
-
-
 <!---
 Arjit1512/Arjit1512 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src=https://raw.githubusercontent.com/arjit/arjit/main/Arjit%20Reddy.png alt="Arjit Reddy" style="margin-bottom: 5px;" />
 
-- 👋 Hi, I’m Arjit Avadhanam
-- 👀 I do coding @leetcode ✈ https://leetcode.com/u/Arjit15
-- 📫 You can reach me on https://www.linkedin.com/in/arjit-avadhanam-90713a295
-- 😄 Pronouns: he/him
+<h3>- 👋 Hi, I’m Arjit Avadhanam<br/>
+- 👀 I do coding @leetcode ✈ https://leetcode.com/u/Arjit15<br/>
+- 📫 You can reach me on https://www.linkedin.com/in/arjit-avadhanam-90713a295<br/>
+- 😄 Pronouns: he/him<br/></h3>
 <h4 >A Full Stack Web Developer</h4>
 
 📖 I’m a **Computer Science Undergrad** studying at **Indian Institute of Information Technology, SriCity**. 
@@ -52,14 +49,3 @@ logoColor=white alt="gmail" style="margin-bottom: 5px;" />
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS"  alt="ReactJS" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="45" height="45"/> |
 
-
-<h2 >My Profile Stats</h2>
-
-<div ><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=arjit&show_icons=true&show_icons=true&theme=tokyonight&locale=en&count_private=true&include_all_commits=true"  /></div>  
-<p></p>
-<div ><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arjit&show_icons=true&theme=tokyonight&locale=en&layout=compact&count_private=true"  /></div> 
-<p></p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=arjit&title=Commits,Repositories,MultipleLang,PullRequest,Reviews&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-![](https://komarev.com/ghpvc/?username=arjit&style=for-the-badge&color=orange)
