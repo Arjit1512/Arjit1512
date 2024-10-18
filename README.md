@@ -12,8 +12,11 @@ You can click the Preview link to take a look at your changes.
 📖 I’m a **Electronics and Communication Undergrad** studying at **Indian Institute of Information Technology, SriCity**. 
 
 ## Currently Working on
-- [Under Water Aquatic Image Classification](https://github.com/arjit/UAIC)
-- [Face and Liveliness Detector](https://github.com/arjit/Face-Recognition-and-Liveliness-Detection)
+- [Simulation of Drone in Different Terrains](https://docs.google.com/presentation/d/1H0Q19Z315Zj8TnCEueWrwmijroh7y5qz/edit#slide=id.p16)
+
+## Personal Projects
+- [True Hood E-Commerce Platform](https://github.com/Arjit1512/arjit-dream-project)
+- [Sociopedia MERN Stack Application](https://github.com/Arjit1512/arjit-sociopedia)
 
 <h2 >Connect With Me</h2> 
 <div >
