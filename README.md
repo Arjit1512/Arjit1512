@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 📖 I’m a **Electronics and Communication Undergrad** studying at **Indian Institute of Information Technology, SriCity**. 
 
 ## Currently Working on
-- [Simulation of Drone in Different Terrains](https://docs.google.com/presentation/d/1H0Q19Z315Zj8TnCEueWrwmijroh7y5qz/edit#slide=id.p16)
+- [Simulation of Drone in Different Terrains](https://github.com/Arjit1512/btp-03)
 
 ## Academic Projects
 - [Smart Water Irrigation System](https://github.com/Arjit1512/embedded-systems)
