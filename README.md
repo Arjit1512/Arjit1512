@@ -18,6 +18,7 @@ You can click the Preview link to take a look at your changes.
 - [Smart Water Irrigation System](https://github.com/Arjit1512/embedded-systems)
 - [Implementation of Logic Gates and Games on Verilog FPGA Board](https://github.com/Arjit1512/fpga)
 - [Vehicle Number Plate Recognition System](https://github.com/Arjit1512/vehicle-recognition)
+- [Car Parking Management System OOPS C++](https://github.com/Arjit1512/car-parking-oops)
 - [Simulation of circuits in T-SPICE](https://drive.google.com/drive/u/0/folders/14i7vF36J6uEc-4r2z4QJpWjV_drb0gGj)
 
 ## Personal Projects
