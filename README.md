@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 - 😄 Pronouns: he/him
 <h6>A Full Stack Web Developer & Embedded Systems Enthusiast</h6>
 
-📖 I’m a **Electronics and Communication Undergrad** studying at **Indian Institute of Information Technology, SriCity**. 
+📖 I’m an **Electronics and Communication Undergrad** studying at **Indian Institute of Information Technology, SriCity**. 
 
 ## Currently Working on
 - [Simulation of Drone in Different Terrains](https://github.com/Arjit1512/btp-03)
