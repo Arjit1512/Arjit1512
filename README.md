@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 - [Simulation of circuits in T-SPICE](https://drive.google.com/drive/u/0/folders/14i7vF36J6uEc-4r2z4QJpWjV_drb0gGj)
 
 ## Personal Projects
-- [True Hood E-Commerce Platform](https://github.com/Arjit1512/arjit-dream-project)
+- [True Hood E-Commerce Platform](https://github.com/Arjit1512/2.0)
 - [Sociopedia MERN Stack Application](https://github.com/Arjit1512/arjit-sociopedia)
 
 <h2 >Connect With Me</h2> 
