@@ -41,6 +41,7 @@ logoColor=white alt="gmail" style="margin-bottom: 5px;" />
 <img src=https://img.shields.io/badge/Instagram-E4455F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 </div>  
+
 ## Skill Set
 
 ### Languages:
