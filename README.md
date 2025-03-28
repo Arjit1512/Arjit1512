@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 - 👀 I do coding @leetcode ✈ https://leetcode.com/u/Arjit15
 - 📫 You can reach me on https://www.linkedin.com/in/arjit-avadhanam-90713a295
 - 😄 Pronouns: he/him
-<h6>A Full Stack Web Developer & Embedded Systems Enthusiast</h6>
+<h6>A Passionate Full-Stack Web and Mobile App Developer</h6>
 
 📖 I’m an **Electronics and Communication Undergrad** studying at **Indian Institute of Information Technology, SriCity**. 
 
