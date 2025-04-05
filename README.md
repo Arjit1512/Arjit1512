@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Personal Projects
 - [True Hood E-Commerce Platform](https://github.com/Arjit1512/2.0)
-- [Sociopedia MERN Stack Application](https://github.com/Arjit1512/arjit-sociopedia)
+- [Sociopedia Cloud Integrated Application](https://github.com/Arjit1512/arjit-sociopedia)
 
 <h2 >Connect With Me</h2> 
 <div >
