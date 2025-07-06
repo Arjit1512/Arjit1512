@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 📖 I’m an **Electronics and Communication Undergrad** studying at **Indian Institute of Information Technology, SriCity**. 
 
 ## Currently Working on
-- [Music Board React Native Application](https://github.com/Arjit1512/music_app)
+- [Botbuddy- Your new AI Friend](https://github.com/Arjit1512/Botbuddy)
 
 ## Academic Projects
 - [Smart Water Irrigation System](https://github.com/Arjit1512/embedded-systems)
@@ -24,7 +24,8 @@ You can click the Preview link to take a look at your changes.
 ## Personal Projects
 - [True Hood E-Commerce Platform](https://github.com/Arjit1512/2.0)
 - [Sociopedia Cloud Integrated Application](https://github.com/Arjit1512/arjit-sociopedia)
-
+- [Music Board React Native Application](https://github.com/Arjit1512/music_app)
+  
 <h2 >Connect With Me</h2> 
 <div >
 <a href="https://github.com/Arjit1512" target="_blank">
